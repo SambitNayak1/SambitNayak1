@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Application Developemnt** using technologies such as Node.js, Express.js, React.js, Mongodb, MySQL and more.
 
-- 🌱 I’m currently Preparing for **Switch Company**
+- 🌱 I’m currently working for **ViXR Inc**
 
 - 👯 I’m looking to collaborate with **Peoples with Amaizing Ideas**
 
