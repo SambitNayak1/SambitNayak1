@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sambit985](https://github.com/SambitNayak1)
 
-- 💬 Ask me about **FrontEnd and BackEnd**
+- 💬 Ask me about **FrontEnd || BackEnd || DevOps**
 
 - 📫 How to reach me **sambit@vixr.io**
 
